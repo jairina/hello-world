@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello, everybody!
+
+My name is Irina. I live in Kramatorsk, Ukraine.
